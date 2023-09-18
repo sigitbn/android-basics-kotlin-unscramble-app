@@ -9,6 +9,8 @@ to make a word using all the letters from the displayed scrambled word.
 Used in the [Android Basics with Kotlin](https://developer.android.com/courses/android-basics-kotlin/course) course.
 
 Used in Mobile class PNM
+Used in class mobile 2
+
 Pre-requisites
 --------------
 
